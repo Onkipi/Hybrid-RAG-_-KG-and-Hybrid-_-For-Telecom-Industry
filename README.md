@@ -225,7 +225,7 @@ Device
 
 Vendor
 
-Competitor
+Competitor.
 
 Regulator
 
